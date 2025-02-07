@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Kumbh OSINT Challenge
+# OSINT Challenge
 
 ## **Challenge Name:** The Great Assembly
 
